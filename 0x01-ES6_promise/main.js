@@ -1,3 +1,3 @@
-import handleProfileSignup from "./3-all";
+import uploadPhoto from './5-photo-reject';
 
-handleProfileSignup();
+console.log(uploadPhoto('guillaume.jpg'));
