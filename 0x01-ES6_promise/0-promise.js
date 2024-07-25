@@ -1,5 +1,4 @@
-
 /* eslint-disable */
 export default function fetchResponse() {
-  return new Promise((resolve, reject) => {});
+  return new Promise(() => {});
 }
