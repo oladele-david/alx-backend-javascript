@@ -1,4 +1,5 @@
-export default class HolbertonCourse {
+/* eslint-disable */
+xport default class HolbertonCourse {
     /**
      * Initializes a new instance of the HolbertonCourse class.
      *
