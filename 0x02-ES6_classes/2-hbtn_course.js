@@ -8,9 +8,9 @@ export default class HolbertonCourse {
      * @param {number} students - The number of students enrolled in the course.
      */
     constructor(name, length, students) {
-        this._name = name;
-        this._length = length;
-        this._students = students;
+        this.name = name;
+        this.length = length;
+        this.students = students;
     }
 
     get name() {
